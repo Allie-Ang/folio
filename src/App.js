@@ -19,9 +19,19 @@ function App() {
           <h1 style={{ fontWeight: 100 }}>Allie Ang</h1>
           <h2 style={{ fontWeight: 100 }}>Full Stack Software Engineer</h2>
           <div>
-            <li>Projects</li>
-            <li>LinkedIn</li>
-            <li>GitHub</li>
+            <li style={{ listStyleType: "none" }}>Projects</li>
+            <li style={{ listStyleType: "none" }}>LinkedIn</li>
+            <li style={{ listStyleType: "none" }}>GitHub</li>
+          </div>
+          <div>
+            <p style={{ fontSize: "15px", lineHeight: "20px" }}>
+              I’m an ambitious software engineer with a background in
+              occupational therapy, seeking opportunities to leverage both
+              therapeutic and technical skills in a new role. Following
+              non-traditional education paths, I completed the Full-Stack
+              Software Engineer Program @ UCLA and Stanbridge University
+              receiving my degree in Occupational Therapy.
+            </p>
           </div>
         </div>
       </header>
