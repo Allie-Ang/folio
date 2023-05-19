@@ -18,6 +18,11 @@ function App() {
         >
           <h1 style={{ fontWeight: 100 }}>Allie Ang</h1>
           <h2 style={{ fontWeight: 100 }}>Full Stack Software Engineer</h2>
+          <div>
+            <li>Projects</li>
+            <li>LinkedIn</li>
+            <li>GitHub</li>
+          </div>
         </div>
       </header>
     </div>
