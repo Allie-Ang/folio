@@ -16,8 +16,8 @@ function App() {
             margin: "26px",
           }}
         >
-          <h1>Allie Ang</h1>
-          <h2>Full Stack Software Engineer</h2>
+          <h1 style={{ fontWeight: 100 }}>Allie Ang</h1>
+          <h2 style={{ fontWeight: 100 }}>Full Stack Software Engineer</h2>
         </div>
       </header>
     </div>
