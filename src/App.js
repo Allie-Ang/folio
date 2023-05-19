@@ -1,12 +1,24 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Allie Ang</h1>
-        <h2>Full Stack Software Engineer</h2>
+        <div
+          style={{
+            border: "10px solid",
+            height: "100",
+            position: "absolute",
+            top: 0,
+            right: "0px",
+            bottom: "0px",
+            left: "0px",
+            margin: "26px",
+          }}
+        >
+          <h1>Allie Ang</h1>
+          <h2>Full Stack Software Engineer</h2>
+        </div>
       </header>
     </div>
   );
