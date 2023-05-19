@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <div
           style={{
-            border: "10px solid",
+            border: "1px solid",
             height: "100",
             position: "absolute",
             top: 0,
