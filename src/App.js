@@ -16,14 +16,16 @@ function App() {
             margin: "26px",
           }}
         >
-          <h1 style={{ fontWeight: 100 }}>Allie Ang</h1>
-          <h2 style={{ fontWeight: 100 }}>Full Stack Software Engineer</h2>
-          <div>
+          <div style={{ border: "1px solid yellow" }}>
+            <h1 style={{ fontWeight: 200 }}>Allie Ang</h1>
+            <h2 style={{ fontWeight: 100 }}>Full Stack Software Engineer</h2>
+          </div>
+          <div style={{ border: "1px solid yellow" }}>
             <li style={{ listStyleType: "none" }}>Projects</li>
             <li style={{ listStyleType: "none" }}>LinkedIn</li>
             <li style={{ listStyleType: "none" }}>GitHub</li>
           </div>
-          <div>
+          <div style={{ border: "1px solid yellow" }}>
             <p style={{ fontSize: "15px", lineHeight: "20px" }}>
               I’m an ambitious software engineer with a background in
               occupational therapy, seeking opportunities to leverage both
