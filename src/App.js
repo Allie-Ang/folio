@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <div
           style={{
-            border: "1px solid",
+            border: ".8px solid",
             height: "100",
             position: "absolute",
             top: 0,
@@ -16,40 +16,47 @@ function App() {
             margin: "26px",
           }}
         >
-          <div style={{ border: "1px solid yellow" }}>
-            <h1
-              style={{
-                fontWeight: 200,
-                marginTop: 20,
-                marginLeft: 20,
-                textAlign: "left",
-                marginBottom: 0,
-              }}
-            >
-              Allie Ang
-            </h1>
-            <h2
-              style={{
-                fontWeight: 100,
-                marginLeft: 20,
-                textAlign: "left",
-                lineHeight: 0,
-                fontSize: 20,
-                marginTop: 6,
-              }}
-            >
-              Full Stack Software Engineer
-            </h2>
-          </div>
+          <h1
+            style={{
+              fontWeight: 245,
+              marginTop: 15,
+              marginLeft: 20,
+              textAlign: "left",
+              marginBottom: 0,
+            }}
+          >
+            Allie Ang
+          </h1>
+          <h2
+            style={{
+              fontWeight: 100,
+              marginLeft: 20,
+              textAlign: "left",
+              lineHeight: 0,
+              fontSize: 15,
+              marginTop: 6,
+            }}
+          >
+            Full Stack Software Engineer
+          </h2>
           <div
             style={{
               textAlign: "left",
               marginLeft: 20,
             }}
           >
-            <li style={{ listStyleType: "none" }}>Projects</li>
-            <li style={{ listStyleType: "none" }}>LinkedIn</li>
-            <li style={{ listStyleType: "none" }}>GitHub</li>
+            <li style={{ listStyleType: "none", marginTop: 5 }}>𓆟</li>
+            <li style={{ listStyleType: "none", fontWeight: 250 }}>Projects</li>
+            <li style={{ listStyleType: "none", fontWeight: 250 }}>LinkedIn</li>
+            <li
+              style={{
+                listStyleType: "none",
+                marginBottom: 10,
+                fontWeight: 250,
+              }}
+            >
+              GitHub
+            </li>
           </div>
           <div style={{ border: "1px solid yellow" }}>
             <p style={{ fontSize: "15px", lineHeight: "20px" }}>
