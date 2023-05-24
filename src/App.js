@@ -23,6 +23,7 @@ function App() {
                 marginTop: 20,
                 marginLeft: 20,
                 textAlign: "left",
+                marginBottom: 0,
               }}
             >
               Allie Ang
@@ -32,12 +33,20 @@ function App() {
                 fontWeight: 100,
                 marginLeft: 20,
                 textAlign: "left",
+                lineHeight: 0,
+                fontSize: 20,
+                marginTop: 6,
               }}
             >
               Full Stack Software Engineer
             </h2>
           </div>
-          <div style={{ border: "1px solid yellow" }}>
+          <div
+            style={{
+              textAlign: "left",
+              marginLeft: 20,
+            }}
+          >
             <li style={{ listStyleType: "none" }}>Projects</li>
             <li style={{ listStyleType: "none" }}>LinkedIn</li>
             <li style={{ listStyleType: "none" }}>GitHub</li>
