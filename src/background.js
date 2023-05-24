@@ -7,7 +7,7 @@ const BackgroundVideo = () => {
   return (
     <div className={classse.Container}>
       <video autoPlay="autoplay" loop="loop" muted className={classse.Video}>
-        <source src={videoSource} type="video/mp4" />
+        <source src={videoSource} type="video/webm" />
         TEST
       </video>
     </div>
