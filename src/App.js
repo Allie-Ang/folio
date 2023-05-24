@@ -17,8 +17,25 @@ function App() {
           }}
         >
           <div style={{ border: "1px solid yellow" }}>
-            <h1 style={{ fontWeight: 200 }}>Allie Ang</h1>
-            <h2 style={{ fontWeight: 100 }}>Full Stack Software Engineer</h2>
+            <h1
+              style={{
+                fontWeight: 200,
+                marginTop: 20,
+                marginLeft: 20,
+                textAlign: "left",
+              }}
+            >
+              Allie Ang
+            </h1>
+            <h2
+              style={{
+                fontWeight: 100,
+                marginLeft: 20,
+                textAlign: "left",
+              }}
+            >
+              Full Stack Software Engineer
+            </h2>
           </div>
           <div style={{ border: "1px solid yellow" }}>
             <li style={{ listStyleType: "none" }}>Projects</li>
