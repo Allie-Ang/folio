@@ -1,5 +1,5 @@
 import "./App.css";
-import React from 'react';
+import React from "react";
 
 function App() {
   return (
@@ -75,16 +75,10 @@ function App() {
   );
 }
 
-const VideoBackground = () => {
-  return (
-    <div className="video-background">
-      <video autoPlay muted loop>
-        <source src="pexels-rostislav-uzunov-7513671-3840x2160-24fps.mp4" type="video/mp4" />
-        {/* Add additional <source> elements for different video formats */}
-      </video>
-      {/* Add other content on top of the video, if needed */}
-    </div>
-  );
-};
+function App() {
+  return <div>
+    
+  </div>;
+}
 
-export default App, VideoBackground;
+export default App;
