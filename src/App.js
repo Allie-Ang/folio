@@ -60,14 +60,7 @@ function App() {
             </li>
           </div>
           <div style={{ border: "1px solid yellow" }}>
-            <p style={{ fontSize: "15px", lineHeight: "20px" }}>
-              I’m an ambitious software engineer with a background in
-              occupational therapy, seeking opportunities to leverage both
-              therapeutic and technical skills in a new role. Following
-              non-traditional education paths, I completed the Full-Stack
-              Software Engineer Program @ UCLA and Stanbridge University
-              receiving my degree in Occupational Therapy.
-            </p>
+            <p style={{ fontSize: "15px", lineHeight: "20px" }}></p>
           </div>
         </div>
       </header>
