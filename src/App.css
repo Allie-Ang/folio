@@ -44,6 +44,8 @@ a:active { text-decoration: none; }
 a {
   color: white;
   font-weight: lighter;
+  font-size: 20px;
+
 }
 
 a:hover {
@@ -56,4 +58,5 @@ div.absolute {
   right: 10px;
   width: 300px;
   bottom: 5px;
+  font-weight: lighter;
 } 

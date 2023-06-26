@@ -24,7 +24,7 @@ function App() {
               marginLeft: 20,
               textAlign: "left",
               marginBottom: 0,
-              fontSize: 35,
+              fontSize: 37,
             }}
           >
             Allie Ang
