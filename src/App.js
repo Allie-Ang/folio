@@ -64,7 +64,10 @@ function App() {
                 fontWeight: 250,
               }}
             >
-              GitHub
+              <a href="https://github.com/Allie-Ang" target="_blank">
+                {" "}
+                GitHub
+              </a>
             </li>
           </div>
           <div style={{ border: "1px solid yellow" }}>
