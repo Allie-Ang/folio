@@ -48,7 +48,12 @@ function App() {
           >
             <li style={{ listStyleType: "none", marginTop: 5 }}>𓆟</li>
             <li style={{ listStyleType: "none", fontWeight: 250 }}>Projects</li>
-            <li style={{ listStyleType: "none", fontWeight: 250 }}>LinkedIn</li>
+            <li style={{ listStyleType: "none", fontWeight: 250 }}>
+              <a href="https://www.linkedin.com/in/allison-ang-a4959093/">
+                {" "}
+                LinkedIn
+              </a>
+            </li>
             <li
               style={{
                 listStyleType: "none",
