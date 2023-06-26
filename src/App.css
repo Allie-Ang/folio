@@ -50,3 +50,10 @@ a:hover {
   color: white;
   opacity: 0.5;
 }
+
+div.absolute {
+  position: absolute;
+  right: 10px;
+  width: 300px;
+  bottom: 5px;
+} 

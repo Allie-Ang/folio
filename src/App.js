@@ -24,6 +24,7 @@ function App() {
               marginLeft: 20,
               textAlign: "left",
               marginBottom: 0,
+              fontSize: 35,
             }}
           >
             Allie Ang
@@ -70,7 +71,7 @@ function App() {
               </a>
             </li>
           </div>
-          <div style={{ border: "1px solid yellow" }}>
+          <div class="absolute">
             <p style={{ fontSize: "15px", lineHeight: "20px" }}>
               I’m an ambitious software engineer with a background in
               occupational therapy, seeking opportunities to leverage both
