@@ -55,8 +55,8 @@ a:hover {
 
 div.absolute {
   position: absolute;
-  right: 10px;
+  right: 13px;
   width: 300px;
-  bottom: 5px;
+  bottom: 0px;
   font-weight: lighter;
 } 
